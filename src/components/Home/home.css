@@ -1,0 +1,9 @@
+.addbtn{
+    margin-left: 7rem;
+    margin-top: 20px;
+}
+
+.contactTable, .mapview {
+    margin-left: 7rem;
+    margin-right: 7rem;
+}

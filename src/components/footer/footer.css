@@ -1,0 +1,52 @@
+h3 {
+    font-size: 1.75rem;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+.footer-top {
+  padding: 60px 0 30px 0;
+  background: #eef0ef;
+  margin-top: 50px;
+}
+
+.container,
+.bottomcontainer {
+    margin-left: 7rem;
+    margin-right: 7rem;
+    text-align: left;
+}
+
+.footer-top ul {
+    position: relative;
+    right: 30px;
+}
+
+.footer-top ul li {
+    padding: 7px 0;
+    display: flex;
+    align-items: center;
+}
+
+.footer-top ul a:hover {
+    color: #5fcf80;
+}
+
+.footer-top ul a {
+    color: #777777;
+}
+
+.footer-bottom {
+    background: #eef0ef;
+}
+
+.footerspan {
+    color: #5fcf80;
+}
+
+.bottomcontainer{
+    padding-top: 1.5rem!important;
+    padding-bottom: 1.5rem!important;
+}

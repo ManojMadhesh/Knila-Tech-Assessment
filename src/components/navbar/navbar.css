@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .navbar-item {
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    color: inherit;
+    text-decoration: inherit;
+    font-weight: 500;
+    outline: none;
+  }
+
+  .get-started-btn {
+    margin-left: 22px;
+    margin-right: 10px;
+    background: #5fcf80;
+    color: #fff;
+    border-radius: 50px;
+    padding: 8px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    display: inline-block;
+  }
+
+  .get-started-btn:hover,
+  .get-started-btn:active,
+  .get-started-btn:focus {
+    color: #fff !important;
+    background: #3ac162;
+  }
+
+  a.navbar-item:active,
+  a.navbar-item:hover,
+  a.navbar-item:focus {
+    color: #5fcf80;
+  }
